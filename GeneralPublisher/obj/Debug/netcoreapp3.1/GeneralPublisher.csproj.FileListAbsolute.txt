@@ -1,0 +1,11 @@
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\bin\Debug\netcoreapp3.1\GeneralPublisher.exe
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\bin\Debug\netcoreapp3.1\GeneralPublisher.deps.json
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\bin\Debug\netcoreapp3.1\GeneralPublisher.runtimeconfig.json
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\bin\Debug\netcoreapp3.1\GeneralPublisher.runtimeconfig.dev.json
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\bin\Debug\netcoreapp3.1\GeneralPublisher.dll
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\bin\Debug\netcoreapp3.1\GeneralPublisher.pdb
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\obj\Debug\netcoreapp3.1\GeneralPublisher.csprojAssemblyReference.cache
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\obj\Debug\netcoreapp3.1\GeneralPublisher.AssemblyInfoInputs.cache
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\obj\Debug\netcoreapp3.1\GeneralPublisher.AssemblyInfo.cs
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\obj\Debug\netcoreapp3.1\GeneralPublisher.dll
+C:\Users\temil\source\repos\GeneralPublisher\GeneralPublisher\obj\Debug\netcoreapp3.1\GeneralPublisher.pdb
